@@ -9,3 +9,14 @@
 
 ## [How it looks / How it works](https://m1.afileditch.ch/wpCrFthUorMAfuyBpHZo.mp4)
 
+
+## In case your videos are too fast, do this;
+
+
+
+https://user-images.githubusercontent.com/66071319/195837399-9b016b44-b1e0-49e6-81eb-5672d0cbe710.mp4
+
+
+
+## [How it looks / How it works](https://m1.afileditch.ch/wpCrFthUorMAfuyBpHZo.mp4)
+
