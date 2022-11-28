@@ -1,4 +1,4 @@
-# For Windows, can't test on linux at the moment.
+# For Windows / Linux.
 ## How to install
 1. ``From the`` [releases](https://github.com/fernbacher/MPV-Config-Revamped/releases/tag/mpv-config)
 2. `copy and paste` everything in;
